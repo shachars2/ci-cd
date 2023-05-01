@@ -1,7 +1,5 @@
-*env
 venv
 .venv
-.talkshow
 .secrets.toml
 *.egg-info
 database
